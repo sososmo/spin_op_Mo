@@ -1,0 +1,115 @@
+{
+  "ZWT": {
+    "longname": "Depth to water table",
+    "unit": "m"
+  },
+  "LAI": {
+    "longname": "Leaf area index",
+    "unit": "m2/m2"
+  },
+  "SOIL_T": {
+    "longname": "soil temperature",
+    "unit": "K"
+  },
+  "SMC": {
+    "longname": "volumetric soil moisture",
+    "unit": "m3/m3"
+  },
+  "SOIL_M": {
+    "longname": "volumetric soil moisture",
+    "unit": "m3/m3"
+  },
+  "SNOWH": {
+    "longname": "Snow depth",
+    "unit": "m"
+  },
+  "SNEQV": {
+    "longname": "Snow water equivalent",
+    "unit": "mm"
+  },
+  "GPP": {
+    "longname": "Net instantaneous assimilation",
+    "unit": "gC/m2/day"
+  },
+  "LH": {
+    "longname": "Total latent heat to atmosphere",
+    "unit": "W/m2"
+  },
+  "PRCP": {
+    "longname": "Total precipitation",
+    "title": "Annual precipitation",
+    "unit": "mm"
+  },
+  "STBLCP": {
+    "longname": "Stable carbon in deep soil",
+    "unit": "gC/m2"
+  },
+  "FASTCP": {
+    "longname": "Short-lived carbon in shallow soil",
+    "unit": "gC/m2"
+  },
+  "NEE": {
+    "longname": "Net ecosystem exchange",
+    "unit": "gCO2/m2/s"
+  },
+  "NPP": {
+    "longname": "Net primary productivity",
+    "unit": "gC/m2/s"
+  },
+  "CANLIQ": {
+    "longname": "Canopy liquid water content",
+    "unit": "mm"
+  },
+  "CANICE": {
+    "longname": "Canopy ice water content",
+    "unit": "mm"
+  },
+  "SFCRNOFF": {
+    "longname": "Accumulatetd surface runoff",
+    "unit": "mm"
+  },
+  "SFCRUNOFF": {
+    "longname": "Accumulatetd surface runoff",
+    "unit": "mm"
+  },
+  "UGDRNOFF": {
+    "longname": "Accumulated underground runoff",
+    "unit": "mm"
+  },
+  "QAIR": {
+    "longname": "NARR hybrid level Specific humidity",
+    "unit1": "kg kg-1",
+     "title": "Annual humidity index",
+    "unit": ""
+  },
+  "TAIR": {
+    "longname": "NARR hybrid level Specific humidity",
+     "title": "Annual Temperature",
+      "unit": ""
+  },
+  "VCMX25": {
+    "longname": "maximum rate of carboxylation at 25 degC",
+     "title": "maximum rate of carboxylation at 25 degC",
+      "unit": "CO2/m2/s"
+  },
+  "RMF25": {
+    "longname": "leaf maintenance respiration at 25degC",
+     "title": "leaf maintenance respiration at 25degCC",
+      "unit": "CO2/m2/s"
+  },
+  "MAXSMC": {
+    "longname": "saturated value of soil moisture",
+     "title": "saturated value of soil moisture",
+      "unit": "volumetric"
+  },
+  "BB": {
+    "longname": "soil B parameter",
+     "title": "soil B parameter",
+      "unit": ""
+  },
+  "SATDK": {
+    "longname": "saturated soil hydraulic conductivity",
+     "title": "saturated soil hydraulic conductivity",
+      "unit": ""
+  }
+}

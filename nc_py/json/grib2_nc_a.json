@@ -1,0 +1,114 @@
+{
+  "lon": {
+    "shortName": "lon",
+    "paramId": 250002
+  },
+  "lat": {
+    "shortName": "lat",
+    "paramId": 250001
+  },
+  "time": {
+    "shortName": "",
+    "paramId": 0
+  },
+  "time_bnds": {
+    "shortName": "",
+    "paramId": 0
+  },
+  "SWdown": {
+    "shortName": "ssrd",
+    "paramId": 169
+  },
+  "Rainf": {
+    "shortName": "tp",
+    "paramId": 	228
+  },
+  "CRainf": {
+    "shortName": "cp",
+    "paramId": 143
+  },
+  "ACond": {
+    "shortName": "acond",
+    "paramId": 260469
+  },
+  "Tair": {
+    "shortName": "avsft",
+    "paramId": 260481
+  },
+  "Qair": {
+    "shortName": "",
+    "paramId": 0
+  },
+  "PSurf": {
+    "shortName": "",
+    "paramId": 0
+  },
+  "Wind_E": {
+    "shortName": "",
+    "paramId": 0
+  },
+  "Wind_N": {
+    "shortName": "",
+    "paramId": 0
+  },
+  "PhiS": {
+    "shortName": "",
+    "paramId": 0
+  },
+  "lon": {
+    "shortName": "",
+    "paramId": 0
+  },
+  "lat": {
+    "shortName": "",
+    "paramId": 0
+  },
+  "time": {
+    "shortName": "",
+    "paramId": 0
+  },
+  "time_bnds": {
+    "shortName": "",
+    "paramId": 0
+  },
+  "SWdown": {
+    "shortName": "",
+    "paramId": 0
+  },
+  "Rainf": {
+    "shortName": "",
+    "paramId": 0
+  },
+  "CRainf": {
+    "shortName": "",
+    "paramId": 0
+  },
+  "ACond": {
+    "shortName": "",
+    "paramId": 0
+  },
+  "Tair": {
+    "shortName": "",
+    "paramId": 0
+  },
+  "Qair": {
+    "shortName": "",
+    "paramId": 0
+  },
+  "PSurf": {
+    "shortName": "",
+    "paramId": 0
+  },
+  "Wind_E": {
+    "shortName": "",
+    "paramId": 0
+  },
+  "Wind_N": {
+    "shortName": "",
+    "paramId": 0
+  },
+  "PhiS": {
+    "shortName": "",
+    "paramId": 0
+  }
+}

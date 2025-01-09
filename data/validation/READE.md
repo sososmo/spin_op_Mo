@@ -1,0 +1,2 @@
+1. The monthly FLH and GPP data from the FLUXNET model tree ensemble products are available at Max Planck Institute for Biogeochemistry via https://www.bgc487jena.mpg.de/geodb/projects/Home.php.
+2. Data obtained after interpolation from Ma, N., Niu, G.-Y., Xia, Y., Cai, X., Zhang, Y., Ma, Y., & Fang, Y. (2017). A systematic evaluation of Noah-MP in simulating land-atmosphere energy, water, and carbon exchanges over the continental United States. Journal of Geophysical Research: Atmospheres, 122,  12,245–12,268. https://doi.org/10.1002/ 2017JD027597
