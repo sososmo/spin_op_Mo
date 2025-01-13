@@ -3,5 +3,5 @@
   <component name="Black">
     <option name="sdkName" value="D:\ProgramData\Miniconda3" />
   </component>
-  <component name="ProjectRootManager" version="2" project-jdk-name="py_env" project-jdk-type="Python SDK" />
+  <component name="ProjectRootManager" version="2" project-jdk-name="py_conda_mac" project-jdk-type="Python SDK" />
 </project>
